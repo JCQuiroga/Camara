@@ -94,3 +94,17 @@ c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPh
 c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\obj\Debug\Camara.WinPhone.dll
 c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\obj\Debug\Camara.WinPhone.pdb
 c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\obj\Debug\XapCacheFile.xml
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\Newtonsoft.Json.dll
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\RestSharp.Portable.Core.dll
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\RestSharp.Portable.HttpClient.dll
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\System.Net.Http.dll
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\System.Net.Http.Extensions.dll
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\System.Net.Http.Primitives.dll
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\ContactosModel.dll
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\Newtonsoft.Json.xml
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\RestSharp.Portable.Core.xml
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\RestSharp.Portable.HttpClient.xml
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\System.Net.Http.xml
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\System.Net.Http.Extensions.xml
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\System.Net.Http.Primitives.xml
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.WinPhone\Bin\Debug\ContactosModel.pdb
