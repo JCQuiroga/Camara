@@ -24,3 +24,5 @@ c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara\obj\D
 c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara\bin\Debug\Camara.dll.mdb
 c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara\obj\Debug\Camara.dll.mdb
 c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara\bin\Debug\Camara.dll.mdb
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara\obj\Debug\Camara.dll.mdb
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara\bin\Debug\Camara.dll.mdb

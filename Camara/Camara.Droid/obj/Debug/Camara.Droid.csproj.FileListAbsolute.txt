@@ -40,5 +40,5 @@ c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid
 c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\Plugin.Permissions.dll.mdb
 c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\Plugin.Permissions.Abstractions.dll.mdb
 c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\Camara.dll.mdb
-c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid\obj\Debug\Camara.Droid.dll.mdb
-c:\users\alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\Camara.Droid.dll.mdb
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid\obj\Debug\Camara.Droid.dll.mdb
+C:\Users\Alumno\documents\visual studio 2015\Projects\Camara\Camara\Camara.Droid\bin\Debug\Camara.Droid.dll.mdb
